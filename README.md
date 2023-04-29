@@ -1,4 +1,4 @@
 # AI_Flappy_Bird
 
-https://user-images.githubusercontent.com/36978097/235319168-84a2c63e-2a1e-4aa5-b0a0-629db83208e4.mp4
 
+![ezgif-3-b721f55e8d](https://user-images.githubusercontent.com/36978097/235319278-36c940b9-6d14-4a49-a1b6-a3f8ae51ccf4.gif)
